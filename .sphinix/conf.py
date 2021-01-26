@@ -60,7 +60,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo' : "team10x_logo.png"
     ,'github_user' : 'baeksw'
-    ,'github_repo' : 'pykiz'
+    ,'github_repo' : 'tulpa'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
