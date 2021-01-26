@@ -1,7 +1,4 @@
 '''
-Sample Documentation 
-======================
-
 
 :Date: 2021-01-26
 :Version: 0.1

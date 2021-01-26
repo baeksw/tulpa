@@ -10,6 +10,7 @@ Welcome to tulpa's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   guide
    tulpa 
 
 Indices and tables
