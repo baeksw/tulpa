@@ -23,3 +23,5 @@ deploy: html
 	rm -rf ../docs
 	cp -r $(BUILDDIR)/html ../docs
 	
+open:
+	open $(BUILDDIR)/html/index.html

@@ -36,6 +36,7 @@ release = '0.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.githubpages',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -52,7 +53,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_baseurl = 'https://bakesw.github.io/tulpa/'
+html_baseurl = 'https://baeksw.github.io/tulpa/'
 
 html_theme = 'alabaster'
 
